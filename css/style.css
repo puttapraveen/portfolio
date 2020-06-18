@@ -134,6 +134,20 @@ container2 h2{
     position: relative;
 }
 
+    .container3 .right:hover{
+        background-color: black;
+        background-image: none;
+    
+    }
+    .container3 .left:hover{
+        background-color: black;
+        background-image: none;    
+    }
+
+    .container3 .bottom:hover{
+        background-color: black;
+
+
 .aboutbox{
     width:50%;
     float:right;
