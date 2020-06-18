@@ -1,6 +1,6 @@
 body{
 
-    background-image: url(/images/back.jpg);
+    background-image: url(../images/back.jpg);
     background-size: cover;
 }
 
@@ -17,7 +17,7 @@ body{
 	margin-top:100px;
 	margin-left:350px;
 	border : 2px solid #fff;
-	background-image:url(/images/ba.jpg);
+	background-image:url(../images/ba.jpg);
 	background-size:cover;
     box-sizing:border-box;
     box-shadow: 10px 15px 40px rgba(0,0,0,.5);
@@ -107,7 +107,7 @@ border-color: bisque;
 	margin-top:100px;
 	margin-left:350px;
 	border : 2px solid #fff;
-	background-image:url(/images/b.jpeg);
+	background-image:url(../images/b.jpeg);
 	background-size:cover;
     box-sizing:border-box;
     box-shadow: 10px 15px 40px rgba(0,0,0,.5);
@@ -126,7 +126,7 @@ container2 h2{
 	margin-top:100px;
 	margin-left:350px;
 	border : 2px solid #fff;
-	background-image:url(/images/ba.jpg);
+	background-image:url(../images/ba.jpg);
 	background-size:cover;
     box-sizing:border-box;
     box-shadow: 10px 15px 40px rgba(0,0,0,.5);
@@ -216,13 +216,13 @@ p{
     box-sizing:border-box;
     border : 2px solid #fff;
     background-size: cover;
-    background-image: url(/images/ba.jpg);
+    background-image: url(../images/ba.jpg);
 
 }
 
 .container3 .left{
     float:left;
-    background-image: url(/images/ba.jpg);
+    background-image: url(../images/ba.jpg);
     width: 35%;
     position: relative;
     margin-top: 20px;
